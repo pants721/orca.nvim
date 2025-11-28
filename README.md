@@ -4,7 +4,7 @@ A plugin to replecate my daily journal workflow. Pretty much just toggles betwee
 
 Files are stored in `~/.local/share/orca` under their date with the format `YYYY-MM-DD.md`.
 
-## Installation
+## 📦 Installation
 
 [lazy.nvim](https://github.com/folke/lazy.nvim):
 ```lua
